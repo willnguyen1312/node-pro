@@ -1,0 +1,13 @@
+{
+  "name": "node-pro",
+  "private": true,
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Nam Nguyen <nam.nguyen.node@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.0",
+    "vitest": "^0.34.6"
+  }
+}
